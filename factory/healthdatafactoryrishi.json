@@ -1,0 +1,9 @@
+{
+	"name": "healthdatafactoryrishi",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "42cb3592-4c90-4bce-b4fc-82a787297567",
+		"tenantId": "38c9590d-c471-49a7-af6b-0b5e9df37346"
+	}
+}
